@@ -13,7 +13,6 @@ from matplotlib import rc
 assingment = input('파일명을 입력해주세요 : ') # 2000000000_홍길동.docx
 text = docx2txt.process(assingment)
 
-api = KhaiiiApi()
 sentence_list = []
 morphs_list = []
 

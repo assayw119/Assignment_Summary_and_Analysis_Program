@@ -1,4 +1,0 @@
-([('network',
-   '/Users/parkyoungwoong/Documents/GitHub/Assignment_Summary_and_Analysis_Program/Semantic '
-   'Network Analysis/dist/network',
-   'EXECUTABLE')],)
