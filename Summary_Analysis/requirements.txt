@@ -1,0 +1,7 @@
+scipy
+konlpy
+python-docx
+textrankr
+pandas
+olefile
+pdfminer
