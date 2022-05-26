@@ -9,8 +9,10 @@ def writeToTextFile(a):
     fileWriter.write(str(a)+" is writed")
 
 def readParameters():
-    file=open("properties.txt")
-    parameters = file.read().split(";")
+    # file=open("properties.txt")
+    # parameters = file.read().split(";")
+    file = '3;5'
+    parameters = file.split(";")
     return parameters
 
 def main():
